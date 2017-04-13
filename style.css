@@ -1,0 +1,41 @@
+main {
+
+	padding: 200px;
+}
+
+
+nav {
+  height: 60px;
+  background-color: lightgrey;
+  position: fixed;
+  width: 100%;
+}
+
+
+
+nav ul {
+  display: inline-block;
+  list-style: none;
+  position:absolute;
+  right: 0;
+  margin-right: 20px;
+  font-size: 150%;
+  vertical-align: middle;
+}
+
+nav li {
+  display: inline-block;
+  vertical-align: middle;
+  
+}
+
+form.search {
+
+}
+
+/**
+div style="float:left;margin-right:20px;">
+        <label for="name">Name</label>
+        <input id="name" type="text" value="" name="name">
+    </div>
+**?
