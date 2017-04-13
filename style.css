@@ -1,6 +1,6 @@
 main {
 
-	padding: 200px;
+	padding: 70px;
 }
 
 
@@ -29,13 +29,16 @@ nav li {
   
 }
 
-form.search {
-
+label {
+	display: block;
+text-align: left;
 }
 
-/**
-div style="float:left;margin-right:20px;">
-        <label for="name">Name</label>
-        <input id="name" type="text" value="" name="name">
-    </div>
-**?
+form {
+	margin-left: auto;
+	padding-bottom: 60px;
+}
+
+table {
+
+\}
