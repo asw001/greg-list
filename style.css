@@ -39,6 +39,11 @@ form {
 	padding-bottom: 60px;
 }
 
-table {
+table.result_nav, tr.result_nav, td.result_nav, colgroup.result_nav {
+	
+	border-left: 1px solid #C1DAD7;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
 
-\}
+}
